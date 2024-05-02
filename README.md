@@ -3,7 +3,7 @@ Detect Fraudulent applications for a bank account via diverse machine-learning m
 
 Fraudulent applications for a new bank account are major concerns for banks and financial institutions. Fraudsters use various techniques (identity theft, account takeover, phishing) to apply for fake bank accounts and do illegal activities. In this project, we will explore a dataset containing Bank Account Application records and build models to predict fraudulent applications in the bank account opening process.
 
-Here, we will use the Kaggle dataset Bank Account Fraud (BAF) dataset (https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) which comprises:
+Here, we will use the Bank Account Fraud dataset which comprises:
 1 million instances, out of which 11029 are fraudulent (1.1%);
 30 realistic features used in the fraud detection use-case; 
 A column of “month”, providing temporal information about the dataset;
